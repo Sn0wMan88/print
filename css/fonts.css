@@ -1,0 +1,16 @@
+@font-face {
+    font-family: HelveticaLTStd;
+    src: url(../fonts/HelveticaLTStd-Bold.ttf);
+}
+@font-face {
+    font-family: MyriadPro;
+    src: url(../fonts/MyriadPro-Regular.ttf);
+}
+@font-face {
+    font-family: Neoteric;
+    src: url(../fonts/NEOTERIC-Bold.ttf);
+}
+@font-face {
+    font-family: Sansation;
+    src: url(../fonts/Sansation-Bold.ttf);
+}
